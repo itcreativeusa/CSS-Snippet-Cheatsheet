@@ -104,6 +104,7 @@ main {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  width: 33.333%;
 }
 
 /*Text in card*/
