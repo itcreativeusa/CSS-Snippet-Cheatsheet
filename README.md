@@ -3,7 +3,7 @@
 ## Description
 
 Link to deployed application
- https://itcreativeusa.github.io/CSS-snippet-cheatsheet
+https://itcreativeusa.github.io/CSS-Snippet-Cheatsheet/
 
 Github link 
 https://github.com/itcreativeusa/CSS-snippet-cheatsheet
