@@ -3,10 +3,10 @@
 ## Description
 
 Link to deployed application
-https://itcreativeusa.github.io/CSS-Snippet-Cheatsheet/
+https://itcreativeusa.github.io/css-snippet-cheatsheet/
 
 Github link 
-https://github.com/itcreativeusa/CSS-snippet-cheatsheet
+https://github.com/itcreativeusa/css-snippet-cheatsheet
 
 This CSS-Snippet-Cheatsheet website was created as a bootcamp everyweek student challege. This website is a HTML & CSS portfolio page. The code of this portfolio page was created from scratch.
 Page contain blocks of code user may automatically select.
