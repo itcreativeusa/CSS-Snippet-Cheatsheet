@@ -8,8 +8,8 @@ https://itcreativeusa.github.io/css-snippet-cheatsheet/
 Github link 
 https://github.com/itcreativeusa/css-snippet-cheatsheet
 
-This CSS-Snippet-Cheatsheet website was created as a bootcamp everyweek student challege. This website is a HTML & CSS portfolio page. The code of this portfolio page was created from scratch.
-Page contain blocks of code user may automatically select.
+This CSS-Snippet-Cheatsheet website was created as a boot camp every week for student challenges. This website is an HTML & CSS portfolio page. The code of this portfolio page was created from scratch.
+The page contains blocks of code the user may automatically select.
 
 ## Table of Contents (Optional)
 
@@ -36,7 +36,7 @@ Screenshot located in ``` assets/images ``` folder
 
 ## Credits
 
-Matrix hex colors scheme was found here:
+The matrix hex colors scheme was found here:
 
 https://www.schemecolor.com/matrix-code-green.php
 
